@@ -5,3 +5,5 @@ export class CreateProductoDTO {
     readonly precio: number;
     readonly fechaCreacion: Date;
 }
+
+//estructura de tranferencia de datos
